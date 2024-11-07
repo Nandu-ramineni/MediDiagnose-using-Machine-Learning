@@ -28,8 +28,8 @@ Welcome to the AI Diagnosis Project. This project aims to leverage artificial in
 5. **Deployment**: Deploy the models in a user-friendly interface.
 
 ## Images
-![AI Diagnosis Workflow](images/workflow.png)
-![User Interface](images/ui.png)
+!(![image](https://github.com/user-attachments/assets/6b80e616-efaf-4ad8-a04f-e4f3491af72c))
+!(![image](https://github.com/user-attachments/assets/0b2f4a3a-f6ac-4d33-ba76-7259ddb8c4b3))
 
 ## API Endpoints
 - `GET /api/diagnosis` - Retrieve diagnosis results.
