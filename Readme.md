@@ -5,7 +5,7 @@ Welcome to the AI Diagnosis Project. This project aims to leverage artificial in
 
 ## Team Introduction
 - **Nandu Varma** - [GitHub](https://github.com/Nandu-ramineni)
-- **Revathi Reddy** 
+- **Revathi Reddy**  
 - **Guru charan** 
 - **Mohit reddy** 
 
