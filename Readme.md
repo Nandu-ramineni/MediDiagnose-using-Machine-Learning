@@ -7,7 +7,7 @@ Welcome to the AI Diagnosis Project. This project aims to leverage artificial in
 - [**Nandu Varma**](https://github.com/Nandu-ramineni)
 - [**Revathi Reddy**](https://github.com/revathireddyg)
 - [**Guru charan**](https://github.com/kgurucharan2003)
-- **Mohit reddy** 
+- [**Mohit reddy**](https://github.com/Mohitreddy123)
 
 ## Features
 - **Automated Diagnosis**: Utilizes machine learning algorithms to diagnose medical conditions.
